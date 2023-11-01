@@ -1,2 +1,1 @@
-#mi primer proyecto git 
-#Autor: Edinson Sarria 
+#Primera Versiongit add README.md 
